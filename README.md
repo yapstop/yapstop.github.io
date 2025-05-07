@@ -1,2 +1,2 @@
 # yapstop.github.io
-our website
+this is the repository for our website
